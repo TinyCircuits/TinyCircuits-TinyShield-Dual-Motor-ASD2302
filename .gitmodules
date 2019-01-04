@@ -1,0 +1,3 @@
+[submodule "examples and library/TinyCircuits-TinyShield_Motor_Library"]
+	path = examples and library/TinyCircuits-TinyShield_Motor_Library
+	url = https://github.com/TinyCircuits/TinyCircuits-TinyShield_Motor_Library
