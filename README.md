@@ -1,15 +1,15 @@
 # TinyCircuits TinyShield Dual Motor Board
 # ASD2302 Rev3
 
-These are the design files for the TinyCircuits ASD2302 Rev 3 PCB.  This is a TinyShield board (Square Version, 20mm x 20mm) that has a two TI DRV8847 motor drivers on it, to allow two DC brushed motors to be driven.
+The design files are located under design_files/ for the TinyCircuits ASD2302 Rev 3 PCB.  This is a TinyShield board (Square Version, 20mm x 20mm) that has a two TI DRV8847 motor drivers on it, to allow two DC brushed motors to be driven.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-motor.html
+For more infomation on this, check out the product page at TinyCircuits.com:  https://tinycircuits.com/collections/motors/products/dual-motor-tinyshield
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
