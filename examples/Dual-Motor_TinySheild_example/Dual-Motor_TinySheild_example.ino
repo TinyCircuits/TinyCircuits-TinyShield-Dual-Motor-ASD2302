@@ -1,5 +1,5 @@
 /*
-  TinyCircuits Dual Motor Driver Basic Example
+  TinyCircuits Dual Motor Driver TinySheild Basic Example
   
   This example code shows basic usage of the ASD2302 Dual Motor Driver TinyShield.
   The library intance is created with the hardware address of the motor driver
@@ -14,7 +14,7 @@
 
   Written 30 July 2015
   By Ben Rose
-  Modified 07 January 2019
+  Modified 22 May 2019
   By Hunter Hykes
 
   https://TinyCircuits.com
